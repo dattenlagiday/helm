@@ -3,7 +3,17 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T04:51:44.8116753+07:00"
+    created: "2023-04-04T05:15:34.9263032+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 5062bf38b1f7fc4d82681cf4d75d1ee05fa2cfdc3fab3a33bc52b29694aa175f
+    name: nodejs
+    type: application
+    urls:
+    - nodejs-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-04T05:15:34.925768+07:00"
     description: A Helm chart for Kubernetes
     digest: 34b0188d1d49d30a754e37025c057d34bda1fb5962dc53864b5cb039e65402d0
     name: nodejs
@@ -11,4 +21,4 @@ entries:
     urls:
     - nodejs-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-04T04:51:44.8100924+07:00"
+generated: "2023-04-04T05:15:34.9247267+07:00"
