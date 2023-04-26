@@ -3,7 +3,17 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T06:34:59.3984987+07:00"
+    created: "2023-04-27T02:20:05.3688137+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 59b17a1e3105f91a02594e544dfc8d7d1a5c64f1d2b35538627e80d932ef481b
+    name: nodejs
+    type: application
+    urls:
+    - nodejs-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-27T02:20:05.3688137+07:00"
     description: A Helm chart for Kubernetes
     digest: 4edfb8188fa8b66081e903a8e622517b2d7af054dc1c7cdd96712a23b8dec3e7
     name: nodejs
@@ -13,7 +23,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T06:34:59.3984987+07:00"
+    created: "2023-04-27T02:20:05.3688137+07:00"
     description: A Helm chart for Kubernetes
     digest: 53c22e301a6615974c7ec6f3ce99f8b31701a83ae0a9684ad278b047a73bae65
     name: nodejs
@@ -23,7 +33,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T06:34:59.3979756+07:00"
+    created: "2023-04-27T02:20:05.3688137+07:00"
     description: A Helm chart for Kubernetes
     digest: 0beb5795c1634c64f6929dcdaa8de675346cce62eb891c825130242d1298d48b
     name: nodejs
@@ -33,7 +43,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T06:34:59.3974484+07:00"
+    created: "2023-04-27T02:20:05.3678127+07:00"
     description: A Helm chart for Kubernetes
     digest: 5062bf38b1f7fc4d82681cf4d75d1ee05fa2cfdc3fab3a33bc52b29694aa175f
     name: nodejs
@@ -43,7 +53,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-04T06:34:59.3969181+07:00"
+    created: "2023-04-27T02:20:05.3678127+07:00"
     description: A Helm chart for Kubernetes
     digest: 34b0188d1d49d30a754e37025c057d34bda1fb5962dc53864b5cb039e65402d0
     name: nodejs
@@ -51,4 +61,4 @@ entries:
     urls:
     - nodejs-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-04T06:34:59.3962276+07:00"
+generated: "2023-04-27T02:20:05.3668127+07:00"
