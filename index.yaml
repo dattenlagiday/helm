@@ -11,114 +11,15 @@ entries:
     urls:
     - nodejs-1.1.1.tgz
     version: 1.1.1
+  webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.262923+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 9476c36d1e64255bc202403ebd56709b458679ac43fb79f2523b599c12c5bee7
-    name: nodejs
+    created: "2024-01-15T02:23:33.3758989+07:00"
+    description: A Helm chart for Web Applications
+    digest: bffde526a63ee8c90c65543e05b500d21f5a16e4071e69f802ef4eb2f3441eeb
+    name: webapp
     type: application
     urls:
-    - nodejs-1.1.0.tgz
-    version: 1.1.0
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2623179+07:00"
-    description: A Helm chart for Kubernetes
-    digest: adead3c4da55e9e909e43fcfc7cee0aec1361fe59b82ecc2b13582efd5195ee9
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.9.tgz
-    version: 1.0.9
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2623179+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 90dbec19463f7272c348c9dffe6358f47ad37c239a1c710c97a709babf970b8a
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.8.tgz
-    version: 1.0.8
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2623179+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 086a67ce08e70156a030b1cebd9061c125a17e5d68e838e9f65fd7eda705f237
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.7.tgz
-    version: 1.0.7
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2617999+07:00"
-    description: A Helm chart for Kubernetes
-    digest: e6982f9f8b220acc8283493e5f79b9c4584f7cfe9dfa7c7ce57f2c2580888367
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.6.tgz
-    version: 1.0.6
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2617999+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 59b17a1e3105f91a02594e544dfc8d7d1a5c64f1d2b35538627e80d932ef481b
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.5.tgz
-    version: 1.0.5
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2612749+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 4edfb8188fa8b66081e903a8e622517b2d7af054dc1c7cdd96712a23b8dec3e7
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.4.tgz
-    version: 1.0.4
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.259999+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 53c22e301a6615974c7ec6f3ce99f8b31701a83ae0a9684ad278b047a73bae65
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.3.tgz
-    version: 1.0.3
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.259999+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 0beb5795c1634c64f6929dcdaa8de675346cce62eb891c825130242d1298d48b
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.2.tgz
-    version: 1.0.2
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2594818+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 5062bf38b1f7fc4d82681cf4d75d1ee05fa2cfdc3fab3a33bc52b29694aa175f
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.2594818+07:00"
-    description: A Helm chart for Kubernetes
-    digest: 34b0188d1d49d30a754e37025c057d34bda1fb5962dc53864b5cb039e65402d0
-    name: nodejs
-    type: application
-    urls:
-    - nodejs-1.0.0.tgz
+    - webapp-1.0.0.tgz
     version: 1.0.0
-generated: "2023-06-23T04:01:52.2589648+07:00"
+generated: "2024-01-15T02:23:33.3748497+07:00"
