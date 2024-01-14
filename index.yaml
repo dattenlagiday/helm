@@ -3,7 +3,7 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-06-23T04:01:52.262923+07:00"
+    created: "2024-01-15T02:36:38.3869765+07:00"
     description: A Helm chart for Kubernetes
     digest: e1ce4e376309caeabfb1ad33bc80d03cf34c66c576dd66a9dbb3a30ebe291e2b
     name: nodejs
@@ -14,7 +14,17 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T02:23:33.3758989+07:00"
+    created: "2024-01-15T02:36:38.3880694+07:00"
+    description: A Helm chart for Web Applications
+    digest: 956729256fcf4a436012055db7b7fff30448900bf873ae326d7f40b5290f2f01
+    name: webapp
+    type: application
+    urls:
+    - webapp-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-15T02:36:38.387526+07:00"
     description: A Helm chart for Web Applications
     digest: bffde526a63ee8c90c65543e05b500d21f5a16e4071e69f802ef4eb2f3441eeb
     name: webapp
@@ -22,4 +32,4 @@ entries:
     urls:
     - webapp-1.0.0.tgz
     version: 1.0.0
-generated: "2024-01-15T02:23:33.3748497+07:00"
+generated: "2024-01-15T02:36:38.3869765+07:00"
