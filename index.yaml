@@ -3,7 +3,7 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-17T15:49:44.318113+07:00"
+    created: "2024-01-22T16:20:38.74453+07:00"
     description: A Helm chart for Kubernetes
     digest: e1ce4e376309caeabfb1ad33bc80d03cf34c66c576dd66a9dbb3a30ebe291e2b
     name: nodejs
@@ -14,7 +14,17 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-17T15:49:44.318858+07:00"
+    created: "2024-01-22T16:20:38.748536+07:00"
+    description: A Helm chart for Web Applications
+    digest: 22db0b7cac43a96d99e2c870f7ce1edf826f188ee78a49148ed6f1700ddcb60e
+    name: webapp
+    type: application
+    urls:
+    - webapp-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-22T16:20:38.748162+07:00"
     description: A Helm chart for Web Applications
     digest: ab7a3c3bb6b714e5e040b3083e7aaa486e79765a8d255b5d999bd452e8c4d232
     name: webapp
@@ -24,7 +34,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-17T15:49:44.31862+07:00"
+    created: "2024-01-22T16:20:38.74752+07:00"
     description: A Helm chart for Web Applications
     digest: 038d9f92668a3110fa904cc95c927eb4a356dddf1ff9f68d39201c730a95b127
     name: webapp
@@ -34,7 +44,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-17T15:49:44.318374+07:00"
+    created: "2024-01-22T16:20:38.74484+07:00"
     description: A Helm chart for Web Applications
     digest: 5b53d7aaef3ad3fd6089873e7e1f81699bb996a90d1a06eea084c0b5ec8367e9
     name: webapp
@@ -42,4 +52,4 @@ entries:
     urls:
     - webapp-1.0.0.tgz
     version: 1.0.0
-generated: "2024-01-17T15:49:44.316934+07:00"
+generated: "2024-01-22T16:20:38.743988+07:00"
