@@ -3,7 +3,7 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.547418+07:00"
+    created: "2024-04-04T12:52:23.361974+07:00"
     description: A Helm chart for Kubernetes
     digest: e1ce4e376309caeabfb1ad33bc80d03cf34c66c576dd66a9dbb3a30ebe291e2b
     name: nodejs
@@ -14,7 +14,17 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.549136+07:00"
+    created: "2024-04-04T12:52:23.362492+07:00"
+    description: A Helm chart for Web Applications
+    digest: 93eb477f2c5e5b43f3d68f4e3f6c3c540dbc591dea7d8969d76c041406031dde
+    name: webapp
+    type: application
+    urls:
+    - webapp-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-04-04T12:52:23.362242+07:00"
     description: A Helm chart for Web Applications
     digest: 2fe7b723194752a6847c04442bde0ae5849eae077a41a197a5a858e20c30910b
     name: webapp
@@ -22,44 +32,4 @@ entries:
     urls:
     - webapp-1.0.4.tgz
     version: 1.0.4
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.548897+07:00"
-    description: A Helm chart for Web Applications
-    digest: 22db0b7cac43a96d99e2c870f7ce1edf826f188ee78a49148ed6f1700ddcb60e
-    name: webapp
-    type: application
-    urls:
-    - webapp-1.0.3.tgz
-    version: 1.0.3
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.54852+07:00"
-    description: A Helm chart for Web Applications
-    digest: ab7a3c3bb6b714e5e040b3083e7aaa486e79765a8d255b5d999bd452e8c4d232
-    name: webapp
-    type: application
-    urls:
-    - webapp-1.0.2.tgz
-    version: 1.0.2
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.548148+07:00"
-    description: A Helm chart for Web Applications
-    digest: 038d9f92668a3110fa904cc95c927eb4a356dddf1ff9f68d39201c730a95b127
-    name: webapp
-    type: application
-    urls:
-    - webapp-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-01-22T16:31:55.54779+07:00"
-    description: A Helm chart for Web Applications
-    digest: 5b53d7aaef3ad3fd6089873e7e1f81699bb996a90d1a06eea084c0b5ec8367e9
-    name: webapp
-    type: application
-    urls:
-    - webapp-1.0.0.tgz
-    version: 1.0.0
-generated: "2024-01-22T16:31:55.546555+07:00"
+generated: "2024-04-04T12:52:23.361495+07:00"
