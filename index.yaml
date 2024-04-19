@@ -3,7 +3,7 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-04-04T12:52:23.361974+07:00"
+    created: "2024-04-19T17:44:14.650601+07:00"
     description: A Helm chart for Kubernetes
     digest: e1ce4e376309caeabfb1ad33bc80d03cf34c66c576dd66a9dbb3a30ebe291e2b
     name: nodejs
@@ -11,10 +11,21 @@ entries:
     urls:
     - nodejs-1.1.1.tgz
     version: 1.1.1
+  redisinsight:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-04-19T17:44:14.650859+07:00"
+    description: A Helm chart for RedisInsight
+    digest: 2ac62c424e39a6954456d85a5355c76a8a972c68be21d1fdd2f5f34f279eff87
+    name: redisinsight
+    type: application
+    urls:
+    - redisinsight-1.0.0.tgz
+    version: 1.0.0
   webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-04-04T12:52:23.362492+07:00"
+    created: "2024-04-19T17:44:14.651663+07:00"
     description: A Helm chart for Web Applications
     digest: 93eb477f2c5e5b43f3d68f4e3f6c3c540dbc591dea7d8969d76c041406031dde
     name: webapp
@@ -24,7 +35,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-04-04T12:52:23.362242+07:00"
+    created: "2024-04-19T17:44:14.651277+07:00"
     description: A Helm chart for Web Applications
     digest: 2fe7b723194752a6847c04442bde0ae5849eae077a41a197a5a858e20c30910b
     name: webapp
@@ -32,4 +43,4 @@ entries:
     urls:
     - webapp-1.0.4.tgz
     version: 1.0.4
-generated: "2024-04-04T12:52:23.361495+07:00"
+generated: "2024-04-19T17:44:14.649901+07:00"
